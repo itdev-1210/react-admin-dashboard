@@ -4,12 +4,7 @@
 		height="250"
 		alt="Hell Yeah!"
 	/>
-		<h1>Cosmic Dashboard
 </center>
-
-## Go to Dashboard
-- [Development](https://dashboard-dev.testcosmicgo.com/)
-- [Master](https://dash.cosmicgo.co/)
 
 **Stack Technologies:**
 - React
