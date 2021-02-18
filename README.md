@@ -8,7 +8,11 @@
 
 **Stack Technologies:**
 - React
+- React Hooks
+- Redux
 - Typescript
+- Graph QL
 - Semantic-UI
 - Storybook
 - Styled-Components
+- AWS
